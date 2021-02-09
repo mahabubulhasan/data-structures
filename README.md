@@ -1,5 +1,7 @@
 # Data Structures
-Perpose of this repository is to practice basic Data Structures Implementation in C#
+Perpose of this repository is to practice basic Data Structures Implementation in C#. 
+Content of this repository is inspired by this youtube video 
+[![](http://img.youtube.com/vi/RBSGKlAvoiM/0.jpg)](http://www.youtube.com/watch?v=RBSGKlAvoiM "")
 
 ## What is a Data Structure
 A data sturucture (DS) is a way of organizing data so that it can be used effectively.

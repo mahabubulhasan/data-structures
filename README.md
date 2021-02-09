@@ -18,3 +18,21 @@ The interface does not give any specific details about how something should be i
 | List | Dynamic Array, Linked List |
 
 # Computational Complexity Analysis
+
+## Big-O Notation
+Big-O Noation gives an upper bound of the complexity in the worst case, healping to quantify performance as the input size becomes arbitararily large. 
+
+> Big-O only cares about the worst case.
+
+### n - The size of the input complexities ordered in from smallest to largest:
+
+|  X  |  Y  |
+| --- | --- |
+| Constant Time: | **O(1)** |
+| Logarithmic Time: | **O(log(n))** |
+| Linear Time: | **O(n)** |
+| Linearithmic Time: | **O(nlog(n))** |
+| Quadric Time: | **O(n<sup>2</sup>)** |
+| Cubic Time: | **O(n<sup>3</sup>)** |
+| Exponential Time: | **O(b<sup>n</sup>)** |
+| Factorial Time: | **O(n!)** |

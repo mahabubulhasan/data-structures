@@ -38,3 +38,18 @@ Big-O Noation gives an upper bound of the complexity in the worst case, healping
 | Cubic Time: | **O(n<sup>3</sup>)** |
 | Exponential Time: | **O(b<sup>n</sup>)** |
 | Factorial Time: | **O(n!)** |
+
+
+### Big-O Examples
+Fidning all the subsets of a set - **O(2<sup>n</sup>)**
+
+Fidning all permutation of a string - **O(n!)**
+
+Sorting using mergesort - **O(nlog(n))**
+
+Iterating over all the cells in a matrix of size n by m - **O(nm)**
+
+
+# Common Data Structures
+
+- Arrays

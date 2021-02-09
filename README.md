@@ -1,2 +1,2 @@
-# data-structures
-Basic Data Structure Implementation in C#
+# Data Structures
+Perpose of this repository is to practice basic Data Structures Implementation in C#

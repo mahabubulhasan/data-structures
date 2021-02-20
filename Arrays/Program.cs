@@ -6,7 +6,19 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DynamcArray<string> da = new DynamcArray<string>();
+
+            da.Add("Hello");
+            da.Add("Great");
+            da.Add("World");
+
+            Console.WriteLine(da);
+            Console.WriteLine($"Array Size {da.Size()}");
+
+            foreach (var item in da)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

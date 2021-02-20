@@ -14,7 +14,6 @@ namespace Arrays
 
         public DynamcArray() : this(16) { }
         
-
         public DynamcArray(int capacity)
         {
             if (capacity < 0)

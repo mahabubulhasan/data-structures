@@ -15,6 +15,8 @@ namespace Arrays
             Console.WriteLine(da);
             Console.WriteLine($"Array Size {da.Size()}");
 
+            da.Remove("Great");
+
             foreach (var item in da)
             {
                 Console.WriteLine(item);

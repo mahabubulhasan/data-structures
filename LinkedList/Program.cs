@@ -6,7 +6,22 @@ namespace LinkedList
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var dl = new DoublyLinkedList<string>();
+
+            dl.Add("Hello");
+            dl.Add("Great");
+            dl.Add("World");
+
+            Console.WriteLine(dl);
+
+            // dl.RemoveAt(1);
+
+            foreach (var item in dl)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.WriteLine($"Size {dl.Size()}");
         }
     }
 }

@@ -31,3 +31,15 @@ With a doubly linked list each node holds a reference to the next and previous n
 | Singly LInked | Uses less memory, Simpler implementation | Cannot easily access previous elements |
 | Doubly LInked | Can be traversed backewards | Takes 2x memory |
 
+
+### Complexity
+
+| - | Singly Linked| Doubly Linked |
+| - | - | - |
+| Search | O(n) | O(n) |
+| Insert at head | O(1) | O(1) |
+| Insert at tail | O(1) | O(1) |
+| Remove at head | O(1) | O(1) |
+| Remove at tail | O(n) | O(1) |
+| Remove in middle | O(n) | O(n) |
+

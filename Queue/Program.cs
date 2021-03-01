@@ -6,7 +6,17 @@ namespace Queue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var basicQueue = new BasicQueue<string>("Hello");
+            basicQueue.Offer("Magical");
+            basicQueue.Offer("World");
+            basicQueue.Offer("of");
+            basicQueue.Offer("Data Structures");
+
+            foreach (var item in basicQueue)
+            {
+                Console.WriteLine(item);
+            }
+
         }
     }
 }

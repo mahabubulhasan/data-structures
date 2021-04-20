@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{54B68A27-64E1-42CE-B615-F5564D8B3A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{C75DAE52-3221-4907-9636-EB5634DA2BBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "Stack\Stack.csproj", "{C75DAE52-3221-4907-9636-EB5634DA2BBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{B5A23AE7-2BA4-4A9E-BBD2-11D820C5FF1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "Queue\Queue.csproj", "{B5A23AE7-2BA4-4A9E-BBD2-11D820C5FF1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{44363631-F40D-40DD-BC73-1BD119649D55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B5A23AE7-2BA4-4A9E-BBD2-11D820C5FF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A23AE7-2BA4-4A9E-BBD2-11D820C5FF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A23AE7-2BA4-4A9E-BBD2-11D820C5FF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44363631-F40D-40DD-BC73-1BD119649D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44363631-F40D-40DD-BC73-1BD119649D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44363631-F40D-40DD-BC73-1BD119649D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44363631-F40D-40DD-BC73-1BD119649D55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

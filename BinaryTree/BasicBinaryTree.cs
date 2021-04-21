@@ -195,11 +195,6 @@ namespace BinaryTree
             }
         }
 
-        public override string ToString()
-        {
-            return "Node = " + root.value.ToString();
-        }
-
         private class Node
         {
             public readonly int value;
@@ -209,6 +204,11 @@ namespace BinaryTree
             public Node(int value)
             {
                 this.value = value;
+            }
+
+            public override string ToString()
+            {
+                return $"Node = {value}";
             }
         }
     }

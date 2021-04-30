@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Queue
 {
-    public class BasicQueue<T>: IEnumerable<T>
+    public class BasicQueue<T> : IEnumerable<T>
     {
         private readonly LinkedList<T> list = new LinkedList<T>();
 

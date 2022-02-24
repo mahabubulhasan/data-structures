@@ -3,6 +3,19 @@ Purpose of this repository is to practice basic Data Structures Implementation i
 Content of this repository is inspired by this youtube video 
 [![](http://img.youtube.com/vi/RBSGKlAvoiM/0.jpg)](http://www.youtube.com/watch?v=RBSGKlAvoiM "")
 
+Other relevent videos
+- [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
+- [Binary Tree Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=fAAZixBzIAI)
+- [Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+- [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+- [10 Common Coding Interview Problems - Solved!](https://www.youtube.com/watch?v=Peq4GCPNC5c)
+- [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
+- [https://www.youtube.com/watch?v=Hj_rA0dhr2I](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
+- [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+- [Solve Coding Interview Backtracking Problems - Crash Course](https://www.youtube.com/watch?v=A80YzvNwqXA)
+- [What is Binary Search?](https://www.youtube.com/watch?v=KsoUiNv1SZA)
+- [Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
+
 ## What is a Data Structure
 A data sturucture (DS) is a way of organizing data so that it can be used effectively.
 

@@ -10,7 +10,7 @@ Other relevent videos
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [10 Common Coding Interview Problems - Solved!](https://www.youtube.com/watch?v=Peq4GCPNC5c)
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
-- [https://www.youtube.com/watch?v=Hj_rA0dhr2I](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
+- [Linked Lists for Technical Interviews - Full Course](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 - [Solve Coding Interview Backtracking Problems - Crash Course](https://www.youtube.com/watch?v=A80YzvNwqXA)
 - [What is Binary Search?](https://www.youtube.com/watch?v=KsoUiNv1SZA)

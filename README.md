@@ -16,6 +16,10 @@ Other relevent videos
 - [What is Binary Search?](https://www.youtube.com/watch?v=KsoUiNv1SZA)
 - [Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
 
+YouTube Channels
+- https://www.youtube.com/@CoderbyteDevelopers
+- https://www.youtube.com/@NeetCode
+
 ## What is a Data Structure
 A data sturucture (DS) is a way of organizing data so that it can be used effectively.
 

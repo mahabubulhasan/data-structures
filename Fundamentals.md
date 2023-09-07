@@ -1,4 +1,4 @@
-## Dynamic Array (List)
+## List
 ```C#
 public class DynamicArray<T>
 {

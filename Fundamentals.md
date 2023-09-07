@@ -134,3 +134,100 @@ public class DynamicMap<TKey, TValue>
     }
 }
 ```
+
+## Queue
+```C#
+public class DynamicQueue<T>
+{
+    private T[] array;
+    private int head;
+    private int tail;
+    private int count;
+
+    public DynamicQueue(int initialCapacity)
+    {
+        array = new T[initialCapacity];
+        head = 0;
+        tail = 0;
+        count = 0;
+    }
+
+    public void Enqueue(T item)
+    {
+        if (count == array.Length)
+        {
+            T[] newArray = new T[array.Length * 2];
+            for (int i = 0; i < count; i++)
+            {
+                newArray[i] = array[(head + i) % array.Length];
+            }
+            array = newArray;
+            head = 0;
+            tail = count;
+        }
+        array[tail] = item;
+        tail = (tail + 1) % array.Length;
+        count++;
+    }
+
+    public T Dequeue()
+    {
+        if (count == 0)
+            throw new Exception("Queue is empty");
+
+        T item = array[head];
+        head = (head + 1) % array.Length;
+        count--;
+        return item;
+    }
+
+    public int Count
+    {
+        get { return count; }
+    }
+}
+```
+
+## Stack
+```C#
+public class DynamicStack<T>
+{
+    private T[] array;
+    private int count;
+
+    public DynamicStack(int initialCapacity)
+    {
+        array = new T[initialCapacity];
+        count = 0;
+    }
+
+    public void Push(T item)
+    {
+        if (count == array.Length)
+        {
+            T[] newArray = new T[array.Length * 2];
+            for (int i = 0; i < array.Length; i++)
+            {
+                newArray[i] = array[i];
+            }
+            array = newArray;
+        }
+        array[count] = item;
+        count++;
+    }
+
+    public T Pop()
+    {
+        if (count == 0)
+            throw new Exception("Stack is empty");
+
+        count--;
+        return array[count];
+    }
+
+    public int Count
+    {
+        get { return count; }
+    }
+}
+```

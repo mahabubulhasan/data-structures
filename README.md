@@ -15,6 +15,7 @@ Other relevent videos
 - [Solve Coding Interview Backtracking Problems - Crash Course](https://www.youtube.com/watch?v=A80YzvNwqXA)
 - [What is Binary Search?](https://www.youtube.com/watch?v=KsoUiNv1SZA)
 - [Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
+- [Common Algorithms](https://www.youtube.com/watch?v=KEEKn7Me-ms&list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
 
 YouTube Channels
 - https://www.youtube.com/@CoderbyteDevelopers
